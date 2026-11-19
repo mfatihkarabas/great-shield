@@ -16,6 +16,10 @@ Engineering
 * Use world-class software development best practices.
 * Measure, do not guess.
 * No real users, we're in staging.
+* Run `npm run ci` before every push; it must pass.
+* `engine/` is the single source for detection kinds, task types, AI hosts and the server protocol. Extension, API and report import from it; never copy these lists.
+* Content never leaves the device: engine returns only kinds and counts, and the API rejects any field outside the protocol. Every change keeps the tests that prove this.
+* Test the extension in Chromium with Playwright: load `extension/dist`, route an AI host to a local page, send prompts, screenshot the popup.
 
 Product thinking
 

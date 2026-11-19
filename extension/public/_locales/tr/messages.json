@@ -1,0 +1,61 @@
+{
+  "extName": {
+    "message": "Shield"
+  },
+  "extDescription": {
+    "message": "Şirketinizin AI kullanımını cihazda sayar. İçerik cihazdan çıkmaz, yalnız sayılar gider."
+  },
+  "popup_today": {
+    "message": "Bugün"
+  },
+  "popup_prompts": {
+    "message": "istem"
+  },
+  "popup_detections": {
+    "message": "hassas veri"
+  },
+  "popup_top_tool": {
+    "message": "en çok"
+  },
+  "popup_none": {
+    "message": "—"
+  },
+  "popup_privacy": {
+    "message": "Yazdıklarınız bu cihazdan çıkmaz. Şirketinize yalnız sayılar gider."
+  },
+  "popup_connected": {
+    "message": "Bağlı: $COMPANY$",
+    "placeholders": {
+      "company": {
+        "content": "$1"
+      }
+    }
+  },
+  "popup_local": {
+    "message": "Henüz bir şirkete bağlı değil. Sayılar yalnız bu cihazda."
+  },
+  "tool_chatgpt": {
+    "message": "ChatGPT"
+  },
+  "tool_claude": {
+    "message": "Claude"
+  },
+  "tool_gemini": {
+    "message": "Gemini"
+  },
+  "tool_copilot": {
+    "message": "Copilot"
+  },
+  "tool_deepseek": {
+    "message": "DeepSeek"
+  },
+  "tool_perplexity": {
+    "message": "Perplexity"
+  },
+  "tool_grok": {
+    "message": "Grok"
+  },
+  "tool_mistral": {
+    "message": "Mistral"
+  }
+}

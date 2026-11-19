@@ -1,0 +1,20 @@
+{
+  "type": "object",
+  "properties": {
+    "company": {
+      "title": "Company code",
+      "description": "Company code given by Shield.",
+      "type": "string"
+    },
+    "department": {
+      "title": "Department code",
+      "description": "Department code for this device group.",
+      "type": "string"
+    },
+    "endpoint": {
+      "title": "Endpoint",
+      "description": "Shield API address.",
+      "type": "string"
+    }
+  }
+}

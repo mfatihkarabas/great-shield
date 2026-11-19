@@ -1,0 +1,61 @@
+{
+  "extName": {
+    "message": "Shield"
+  },
+  "extDescription": {
+    "message": "Counts your company's AI use on the device. Content never leaves the device, only counts do."
+  },
+  "popup_today": {
+    "message": "Today"
+  },
+  "popup_prompts": {
+    "message": "prompts"
+  },
+  "popup_detections": {
+    "message": "sensitive data"
+  },
+  "popup_top_tool": {
+    "message": "most used"
+  },
+  "popup_none": {
+    "message": "—"
+  },
+  "popup_privacy": {
+    "message": "What you type never leaves this device. Only counts go to your company."
+  },
+  "popup_connected": {
+    "message": "Connected: $COMPANY$",
+    "placeholders": {
+      "company": {
+        "content": "$1"
+      }
+    }
+  },
+  "popup_local": {
+    "message": "Not connected to a company yet. Counts stay on this device."
+  },
+  "tool_chatgpt": {
+    "message": "ChatGPT"
+  },
+  "tool_claude": {
+    "message": "Claude"
+  },
+  "tool_gemini": {
+    "message": "Gemini"
+  },
+  "tool_copilot": {
+    "message": "Copilot"
+  },
+  "tool_deepseek": {
+    "message": "DeepSeek"
+  },
+  "tool_perplexity": {
+    "message": "Perplexity"
+  },
+  "tool_grok": {
+    "message": "Grok"
+  },
+  "tool_mistral": {
+    "message": "Mistral"
+  }
+}
