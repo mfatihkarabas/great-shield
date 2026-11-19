@@ -183,7 +183,8 @@ CLAUDE.md'nin sorusu: "Bu ürün 6 ayda 1 milyar USD değerlemeye ulaşsaydı, k
                ├──────────────────────────┼──────────────────────────┤
   KOBİ         │ ChatShield (UK), RAIC,   │ PiiBlocker, ShadowLock?, │
   (10–250)     │ Nudge, DefensX           │ Guardian Edge (TR) ★     │
-               │                          │ ► STEWARD: + ERP sözlüğü │
+               │                          │ ► GREAT-SHILED:          │
+               │                          │   + ERP sözlüğü          │
                │                          │   + KVKK raporu + verim  │
                ├──────────────────────────┼──────────────────────────┤
   Birey        │ DNS engeli               │ Caviard, Private Guard,  │
@@ -254,7 +255,7 @@ Pazar araştırması dokümanı on-prem fikri için 22/40 vermişti. Gölge AI k
 4. **Verim katmanında abartı sınırı:** Faz 0 ve 1'de saat tahmini verilmesin, sadece sayım. Faz 1.1'de ölçülen veriyle saat. Kabul mü?
 5. **Kanal:** IT firmalarına ek olarak KVKK danışmanları ve SMMM ofisleri. Regüle meslekler müşteri değil kanal. Puls'tan sonraki ilk 2 görüşme danışmanla mı olsun?
 6. **GB fazı:** ChatShield, Harmonic ve Copilot UK gerçeğiyle GB planı yeniden yazılmalı. Şimdilik "TR'de 10 ücretli müşteri" eşiği kalsın, GB için ayrı marka araştırılsın mı?
-7. **İsim:** Karar (2026-11-07): çalışma adı "The Great Project"; Steward alternatif listede. TÜRKPATENT sorgusu Faz −1'de.
+7. **İsim:** Karar (2026-11-19): proje adı great-shiled. Önceki karar (2026-11-07): çalışma adı "The Great Project"; Steward alternatif listedeydi. TÜRKPATENT sorgusu Faz −1'de.
 8. **Faz 0'a ek:** Günlük Playwright adaptör testi ve "en az 5 cihaz, 1 mühendis" şartı Faz 0'a taşınsın mı?
 
 ---

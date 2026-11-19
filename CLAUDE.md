@@ -31,9 +31,9 @@ Give response in ASD-STE100 standard
 Reply in Turkish. Write every link as a clickable Markdown link. When I must fill a form or settings screen, list every field by its exact on-screen name with the value to type in its own code block, or say "leave as is". End your response with these, in this order:
 
 1. When something changed, a bold Test heading, then one block per step for everychange, separated by blank lines. When the work covers more than one change, include at least one numbered step for every change made, not just one:
-   * First line: bold step number and a short imperative action of at most six words, then · and the link if there is one; every test link uses https://staging.steward.com, e.g. 1. Telefonda aç · [staging](https://staging.steward.com/)
+   * First line: bold step number and a short imperative action of at most six words, then · and the link if there is one; every test link uses https://staging.great-shiled.com, e.g. 1. Telefonda aç · [staging](https://staging.great-shiled.com/)
    * Second line, directly below: ✓ and one concrete sentence on what I should see.
 2. Git status as the last block. With no push, one line: ➲ No Code Change. After a push to main:
    * First line: ➲ pushed origin/main
-   * Then one line per pushed commit, oldest first: its full subject line (e.g. feat(map): …, fix(auth): …) as a Markdown link to https://github.com/mfatihkarabas/steward/commit/<full sha>
+   * Then one line per pushed commit, oldest first: its full subject line (e.g. feat(map): …, fix(auth): …) as a Markdown link to https://github.com/mfatihkarabas/great-shiled/commit/<full sha>
    * Last line: staging deploy status as plain text without a link, measured at reply time: staging deployed, or staging deploying... Never write a prod status.
